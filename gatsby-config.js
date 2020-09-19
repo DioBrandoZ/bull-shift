@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `bull shift`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Zhao Zheqi`,
+      summary: `人送外号双枪快腿小白龙`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      github: 'DioBrandoZ'
     },
+    description: `life, the universe, and everything.`,
+    siteUrl: `https://zhaozheqi.com`,
   },
   plugins: [
     {
